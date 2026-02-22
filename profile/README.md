@@ -12,4 +12,4 @@ We provide a wide range of tiny e-paper modules in various interfaces and sizes.
 #### HIDAPIPI Series (USB Interface)
 | **Size** |2.13" | 
 | ---- | ---- |
-| **Model Name** |  [HIDAPIPI-213-C](https://github.com/open-ep/PIXPAPER-213-M) |
+| **Model Name** |  [HIDAPIPI-213-C](#) |
