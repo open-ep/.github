@@ -9,7 +9,7 @@ We provide a wide range of tiny e-paper modules in various interfaces and sizes.
 | ---- | ---- | ---- |
 | **Model Name** |  [PIXPAPER-213-C](https://github.com/open-ep/PIXPAPER-213-C) <br>  [PIXPAPER-213-M](https://github.com/open-ep/PIXPAPER-213-M) |  [PIXPAPER-426-M](https://github.com/open-ep/PIXPAPER-426-M) | 
 
-#### HIDAPIPI Series (USB Interface)
-| **Size** |2.13" | 
+#### AIRPAPAER Series (BLE Interface)
+| **Size** |2.66" | 
 | ---- | ---- |
-| **Model Name** |  [HIDAPIPI-213-C](#) |
+| **Model Name** |  [AIRPAPER-213-M](#) |
