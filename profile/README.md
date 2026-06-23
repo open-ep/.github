@@ -12,4 +12,4 @@ We provide a wide range of tiny e-paper modules in various interfaces and sizes.
 #### AIRPAPAER Series (BLE Interface)
 | **Size** |2.66" | 
 | ---- | ---- |
-| **Model Name** |  [AIRPAPER-213-M](#) |
+| **Model Name** |  [AIRPAPER-266-M](#) |
